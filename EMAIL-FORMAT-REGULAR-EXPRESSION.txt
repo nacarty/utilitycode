@@ -1,0 +1,9 @@
+This is the patter or regular expression for an email address:
+
+[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$
+
+The forename of the email address may have characters: a to z; 0 to 9; a dot, underscore, percent, plus and minus.
+That has to be followed by: the '@' sign.
+The domain name coming after the '@' sign may have : a to z; 0 to 9; a dot and minus; followed by a dot.
+The highest level domain (like .com or .uk) may contain only 2 or 3 characters from a to z
+The $ indicates that the string has to end thereafter.

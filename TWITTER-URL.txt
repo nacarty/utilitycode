@@ -1,0 +1,1 @@
+https://twitter.com/intent/tweet?hashtags=quotes&related=freecodecamp&text=whatever
